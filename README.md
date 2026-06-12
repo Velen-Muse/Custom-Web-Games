@@ -35,5 +35,5 @@ You can run any of these games on your machine in just a few quick steps. 🏃�
 ### 1. Clone the Repository 📂
 Open your terminal, command prompt, or Git Bash and run:
 ```bash
-git clone [https://github.com/your-username/Custom-Web-Games.git](https://github.com/your-username/Custom-Web-Games.git)
+git clone https://github.com/Velen-Muse/Custom-Web-Games
 cd Custom-Web-Games
